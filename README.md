@@ -16,16 +16,23 @@
 
 ### Step 2:
 
-    Locate to the directory where python file is located 📂
+    git clone https://github.com/lisus18ikrak/inforecon.git 
 
 ### Step 3:
 
-    Run the command: python filename.py/python3 filename.py "<URL of the Website you want to lookup the information>"🧐
+    cd inforecon
+  
+### Step 4: 
+    pip3 install -r requirements.txt
+    
+### Step 5:
 
-### Step 4:
+    Run the command: python inforecon.py/python3 inforecon.py.py "<URL of the Website you want to lookup the information>"🧐
+
+### Step 6:
 
     Sit back and Relax. Let the Script do the Job. ☕
 
-## The Script is Yours.. Happy Hacking 👨🏻‍💻
+## Happy Hacking 👨🏻‍💻
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
